@@ -83,3 +83,15 @@ Se entrenaron dos modelos:
 
 ## 🗂️ Estructura del Repositorio
 
+proyecto-bancarizacion
+├─ data/
+│ ├─ raw/ # Datos crudos descargados desde la API
+│ └─ processed/ # Datos limpios
+├─ figures/ # Gráficos generados por el notebook
+├─ notebooks/
+│ └─ proyecto_bancarizacion.ipynb # Notebook principal con las 20 celdas
+├─ docs/
+│ └─ reporte_proyecto.pdf
+├─ requirements.txt
+└─ README.md
+
