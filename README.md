@@ -1,7 +1,7 @@
 # 🧠 Proyecto Final – Análisis de Bancarización de Beneficiarios de Programas Sociales 🇨🇴
 
-**Autor:** _[Tu nombre completo]_  
-**Diplomado:** Ciencia de Datos y Machine Learning  
+**Autor:** Luis Angel PLaza 
+**Diplomado:** Analitica y Big Data  
 **IDE:** Visual Studio Code + extensión Jupyter  
 **Fuente de datos:** [Datos Abiertos de Colombia – Prosperidad Social](https://www.datos.gov.co/resource/xfif-myr2.json)
 
